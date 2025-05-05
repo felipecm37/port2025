@@ -23,7 +23,7 @@
                 <div class="period">2012 - 2020</div>
                 <div class="description">Gerencimento e produção de toda a necessidade web junto á equipe de criação e
                     demais colaboradores entre 2012/2019, tinha como principal cliente a Acadêmicos Do Grande Rio,
-                    hospedagem, gerenciamento do banco de dados, suporte, manutrenção das aplicações entre blog,
+                    hospedagem, gerenciamento do banco de dados, suporte, manutenção das aplicações entre blog,
                     hotsites, landingpages, etc. Participei dos projetos para start das campanhas da Carvanal
                     Experience, Feijoada da Grande Rio, Sunset Grande Rio.</div>
                 <div class="skills">Competências: HTML5 · CSS3 · JavaScript · SASS · Bootstrap · jQuery · PHP ·
