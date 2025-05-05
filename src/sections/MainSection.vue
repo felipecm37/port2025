@@ -8,9 +8,9 @@
 				front-end UI/UX
 			</h3>
 			<p class="capitalize text-stone-500 max-w-md mx-auto md:mx-0">
-				Conhecimento profundo sobre experiência do usuário e usabilidade em e-commerce, melhores práticas na
-				criação de lojas virtuais, design e avaliação de interfaces.
-			</p>
+				Especialista em UX e usabilidade em e-commerce, com expertise na criação e otimização de lojas virtuais.
+				Experiente em design e avaliação de interfaces, garantindo soluções intuitivas e eficientes. Foco em
+				maximizar conversões e engajamento do usuário. </p>
 			<!-- Main text end -->
 
 			<!-- Social links start -->
