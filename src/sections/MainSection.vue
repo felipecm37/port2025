@@ -7,10 +7,12 @@
 			<h3 class="uppercase text-4xl sm:text-5xl xl:text-7xl mb-4 font-semibold">
 				front-end UI/UX
 			</h3>
-			<p class="capitalize text-stone-500 max-w-md mx-auto md:mx-0">
-				Especialista em UX e usabilidade em e-commerce, com expertise na criação e otimização de lojas virtuais.
-				Experiente em design e avaliação de interfaces, garantindo soluções intuitivas e eficientes. Foco em
-				maximizar conversões e engajamento do usuário. </p>
+			<p class="text-stone-500 max-w-md mx-auto md:mx-0">
+				Especialista em UX e usabilidade para e-commerce, com ampla experiência na criação e otimização de lojas
+				virtuais em WordPress, Magento e Shopify. Hábil no design e avaliação de interfaces, garantindo soluções
+				intuitivas e eficientes. Focado em aumentar conversões e melhorar o engajamento do usuário por meio de
+				estratégias eficazes.
+			</p>
 			<!-- Main text end -->
 
 			<!-- Social links start -->
