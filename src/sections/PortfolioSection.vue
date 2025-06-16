@@ -34,8 +34,8 @@
             <div class="hidden md:flex flex-col gap-4">
                 <a href="https://felipecm37.github.io/buzios.github.io/" target="_blank"><img
                         src="@/assets/portfolio/portfolio1.jpg" alt="1" class="rounded-xl"></a>
-                <a href="https://felipecm37.github.io/papelaria.git.io/" target="_blank"><img
-                          src="@/assets/portfolio/portfolio2.jpg" alt="2" class="rounded-xl"></a>
+                <a href="https://felipecm37.github.io/ipanemapapeis.git.io/" target="_blank"><img
+                        src="@/assets/portfolio/portfolio2.jpg" alt="2" class="rounded-xl"></a>
             </div>
             <div class="hidden md:flex flex-col gap-4">
                 <a href="https://felipecm37.github.io/room.github.io/" target="_blank"><img
