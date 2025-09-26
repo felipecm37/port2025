@@ -20,6 +20,9 @@
 	<portfolio-section></portfolio-section>
 	<!-- Portfolio section end -->
 
+	<!-- Cursos section start -->
+	<cursos-section></cursos-section>
+	<!-- Cursos section end -->
 
 	<!-- Contact section start -->
 	<contact-section></contact-section>
@@ -35,6 +38,7 @@ import AboutSection from '@/sections/AboutSection.vue';
 import ServiceSection from '@/sections/ServiceSection.vue';
 import PelifeSection from '@/sections/PelifeSection.vue';
 import PortfolioSection from '@/sections/PortfolioSection.vue';
+import CursosSection from '@/sections/CursosSection.vue';
 import ContactSection from '@/sections/ContactSection.vue';
 
 export default {
@@ -44,6 +48,7 @@ export default {
 		ServiceSection,
 		PelifeSection,
 		PortfolioSection,
+		CursosSection,
 		ContactSection,
 	}
 }

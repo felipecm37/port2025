@@ -36,6 +36,11 @@
 			<a href="#portfolio-section" role="menuitem">
 				<p class="mx-4">Portfolio</p>
 			</a>
+
+			<a href="#cursos-section" role="menuitem">
+				<p class="mx-4">Formação</p>
+			</a>
+
 			<a href="#contact-section">
 				<button class="btn" role="menuitem">
 					Contato

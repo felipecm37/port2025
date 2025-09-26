@@ -13,7 +13,8 @@
                 <div class="period">2021 - 2024</div>
                 <div class="description">Programador fullstack no Hotels & Resorts coordenei a criação e o
                     desenvolvimento da interface do usuário (UI/UX).</div>
-                <div class="skills">Competências: HTML5 · CSS3 · JavaScript · SASS · Bootstrap · Taiwlwind · Vue.js · Node.js ·
+                <div class="skills">Competências: HTML5 · CSS3 · JavaScript · SASS · Bootstrap · Taiwlwind · Vue.js ·
+                    Node.js ·
                     PhpMyAdmin · MySQL · GitHub · E-commerce global · Otimização para mecanismos de busca (SEO)</div>
             </li>
 
@@ -51,14 +52,6 @@
                     RJ e MG, Congresso Estétika, Expo Posto & Conveniência RJ, Fitabes, Rio Franchising Business, etc.
                 </div>
                 <div class="skills">Competências: HTML5 · CSS3 · JavaScript · WordPress · joomla · PhpMyAdmin</div>
-            </li>
-
-            <li class="job">
-                <div class="company">Profit-e E-commerce Solution</div>
-                <div class="job-title">DESENVOLVEDOR FRONT-END</div>
-                <div class="period">2010 - 2010</div>
-                <div class="description">Desenvolvimento de temas e plugins para Vtex e Magento.</div>
-                <div class="skills">Competências: HTML · CSS · JavaScript · GraphQL · Photoshop</div>
             </li>
 
             <li class="job">
