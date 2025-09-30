@@ -124,12 +124,12 @@
                         </span>
                     </div>
                 </a>
-                <a href="https://felipecm37.github.io/landingpage.git.io/" target="_blank" class="portfolio-item">
+                <a href="https://felipecm37.github.io/villasagencia.git.io/" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio9.jpg" alt="Landing Page" class="rounded-xl">
                     <div class="portfolio-caption">
                         <span><b>Landing Page</b>
                             <br>
-                            Landing page com design moderno e responsivo
+                            Projeto para agência de viagens.
                             <br>
                             <small>HTML5 • CSS3 • JavaScript</small>
                         </span>
