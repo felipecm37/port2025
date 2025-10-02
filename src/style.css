@@ -8,13 +8,43 @@
   @apply text-stone-700 tracking-wide;
 }
 
+/* Dark theme override for all text */
+html.dark * {
+  @apply text-white;
+}
+
+/* Dark theme body styles */
+html.dark {
+  @apply bg-gray-900;
+}
+
+html.dark body {
+  @apply bg-gray-900 text-white;
+}
+
 .btn {
-  @apply text-stone-100 shadow rounded-lg py-2 px-8;
+  @apply text-stone-100 shadow rounded-lg py-2 px-8 transition-colors duration-300;
   background-color: #2e9ec3;
 }
 
+.btn:hover {
+  background-color: #267a94;
+}
+
+html.dark .btn {
+  @apply bg-blue-600;
+}
+
+html.dark .btn:hover {
+  @apply bg-blue-700;
+}
+
 .socialIcon {
-  @apply text-2xl text-[#2e9ec3] hover:text-stone-900;
+  @apply text-2xl text-[#2e9ec3] hover:text-stone-900 transition-colors duration-300;
+}
+
+html.dark .socialIcon {
+  @apply text-blue-400 hover:text-blue-300;
 }
 
 /* Estilo padrão */

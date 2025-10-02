@@ -1,8 +1,8 @@
 <template>
 	<!-- Footer start -->
-	<footer class="bg-white dark:bg-gray-900" style="padding: 20px;">
+	<footer class="bg-white dark:bg-gray-900 transition-colors duration-300" style="padding: 20px;">
 		<div class="sm:flex sm:items-center sm:justify-between">
-			<span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2025 Felipe Caldas.
+			<span class="text-sm text-gray-500 sm:text-center dark:text-white transition-colors duration-300">© 2025 Felipe Caldas.
 			</span>
 			<!-- Social links start -->
 			<div class="flex mt-3 gap-8">
@@ -29,7 +29,7 @@
 	<div class="fixed bottom-4 right-4 flex items-center">
 		<a href="javascript:window.scrollTo(0,0)">
 			<i
-				class="fa-solid fa-arrow-up transition text-stone-100 text-xl bg-blue-500 rounded-full shadow p-4 hover:-translate-y-2 hover:shadow-xl"></i>
+				class="fa-solid fa-arrow-up transition-all duration-300 text-stone-100 text-xl bg-blue-500 dark:bg-blue-600 rounded-full shadow dark:shadow-gray-700 p-4 hover:-translate-y-2 hover:shadow-xl dark:hover:shadow-gray-600"></i>
 		</a>
 	</div>
 	<!-- Footer end -->
