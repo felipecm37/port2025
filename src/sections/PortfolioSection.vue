@@ -19,42 +19,6 @@
             <!-- Mobile view - Grid layout -->
             <div class="grid grid-cols-2 gap-4 md:hidden">
                 <div class="portfolio-item">
-                    <img src="@/assets/portfolio/portfolio1.jpg" alt="Búzios Website" class="rounded-xl">
-                    <div class="portfolio-caption">
-                        <span><b>Búzios Website</b><br>Landing page turística</span>
-                    </div>
-                </div>
-                <div class="portfolio-item">
-                    <img src="@/assets/portfolio/portfolio2.jpg" alt="Ipanema Papéis" class="rounded-xl">
-                    <div class="portfolio-caption">
-                        <span><b>Ipanema Papéis</b><br>E-commerce Prestashop</span>
-                    </div>
-                </div>
-                <div class="portfolio-item">
-                    <img src="@/assets/portfolio/portfolio3.jpg" alt="Room Design" class="rounded-xl">
-                    <div class="portfolio-caption">
-                        <span><b>Room Design</b><br>Portfolio de design</span>
-                    </div>
-                </div>
-                <div class="portfolio-item">
-                    <img src="@/assets/portfolio/portfolio7.jpg" alt="B-Store" class="rounded-xl">
-                    <div class="portfolio-caption">
-                        <span><b>B-Store</b><br>Template e-commerce</span>
-                    </div>
-                </div>
-                <div class="portfolio-item">
-                    <img src="@/assets/portfolio/portfolio8.jpg" alt="Landing Bike" class="rounded-xl">
-                    <div class="portfolio-caption">
-                        <span><b>Landing Bike</b><br>Site de bicicletas</span>
-                    </div>
-                </div>
-                <div class="portfolio-item">
-                    <img src="@/assets/portfolio/portfolio9.jpg" alt="Landing Page" class="rounded-xl">
-                    <div class="portfolio-caption">
-                        <span><b>Landing Page</b><br>Design moderno</span>
-                    </div>
-                </div>
-                <div class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio11.jpg" alt="Portfolio 11" class="rounded-xl">
                     <div class="portfolio-caption">
                         <span><b>Sunset Grande Rio</b><br>Event landing page</span>
@@ -66,75 +30,52 @@
                         <span><b>Novo Projeto</b><br>Descrição do projeto</span>
                     </div>
                 </div>
+                <div class="portfolio-item">
+                    <img src="@/assets/portfolio/portfolio13.jpg" alt="Portfolio 13" class="rounded-xl">
+                    <div class="portfolio-caption">
+                        <span><b>Novo Projeto</b><br>Descrição do projeto</span>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <img src="@/assets/portfolio/portfolio14.jpg" alt="Portfolio 14" class="rounded-xl">
+                    <div class="portfolio-caption">
+                        <span><b>Novo Projeto</b><br>Descrição do projeto</span>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <img src="@/assets/portfolio/portfolio9.jpg" alt="Landing Page" class="rounded-xl">
+                    <div class="portfolio-caption">
+                        <span><b>Landing Page</b><br>Design moderno</span>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <img src="@/assets/portfolio/portfolio10.jpg" alt="Portfolio 10" class="rounded-xl">
+                    <div class="portfolio-caption">
+                        <span><b>Novo Projeto</b><br>Descrição do projeto</span>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <img src="@/assets/portfolio/portfolio8.jpg" alt="Landing Bike" class="rounded-xl">
+                    <div class="portfolio-caption">
+                        <span><b>Landing Bike</b><br>Site de bicicletas</span>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <img src="@/assets/portfolio/portfolio2.jpg" alt="Ipanema Papéis" class="rounded-xl">
+                    <div class="portfolio-caption">
+                        <span><b>Ipanema Papéis</b><br>E-commerce Prestashop</span>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <img src="@/assets/portfolio/portfolio1.jpg" alt="Búzios Website" class="rounded-xl">
+                    <div class="portfolio-caption">
+                        <span><b>Búzios Website</b><br>Landing page turística</span>
+                    </div>
+                </div>
             </div>
 
             <!-- Desktop view - Grid layout -->
             <div class="hidden md:grid md:grid-cols-4 lg:grid-cols-4 xl:grid-cols-4 gap-6">
-                <a href="https://felipecm37.github.io/buzios.github.io/" target="_blank" class="portfolio-item">
-                    <img src="@/assets/portfolio/portfolio1.jpg" alt="Búzios Website" class="rounded-xl">
-                    <div class="portfolio-caption">
-                        <span><b>Búzios Website</b>
-                            <br>
-                            Criação de uma landing page.
-                            HTML - Bootstrap - CSS - JavaScript
-                        </span>
-                    </div>
-                </a>
-                <a href="https://felipecm37.github.io/ipanemapapeis.git.io/" target="_blank" class="portfolio-item">
-                    <img src="@/assets/portfolio/portfolio2.jpg" alt="Ipanema Papéis" class="rounded-xl">
-                    <div class="portfolio-caption">
-                        <span><b>Ipanema Papéis</b>
-                            <br>
-                            E-commerce completo desenvolvido em Prestashop
-                            <br>
-                            <small>Prestashop • PHP • MySQL</small>
-                        </span>
-                    </div>
-                </a>
-                <a href="https://felipecm37.github.io/room.github.io/" target="_blank" class="portfolio-item">
-                    <img src="@/assets/portfolio/portfolio3.jpg" alt="Room Design" class="rounded-xl">
-                    <div class="portfolio-caption">
-                        <span><b>Room Design</b>
-                            <br>
-                            Portfolio de design de interiores moderno
-                            <br>
-                            <small>HTML5 • CSS3 • JavaScript</small>
-                        </span>
-                    </div>
-                </a>
-                <a href="https://felipecm37.github.io/bstore.git.io/" target="_blank" class="portfolio-item">
-                    <img src="@/assets/portfolio/portfolio7.jpg" alt="B-Store" class="rounded-xl">
-                    <div class="portfolio-caption">
-                        <span><b>B-Store</b>
-                            <br>
-                            Template completo para e-commerce
-                            <br>
-                            <small>HTML5 • CSS3 • JavaScript • Bootstrap</small>
-                        </span>
-                    </div>
-                </a>
-                <a href="https://felipecm37.github.io/landingbike.git.io/" target="_blank" class="portfolio-item">
-                    <img src="@/assets/portfolio/portfolio8.jpg" alt="Landing Bike" class="rounded-xl">
-                    <div class="portfolio-caption">
-                        <span><b>Landing Bike</b>
-                            <br>
-                            Landing page para loja de bicicletas
-                            <br>
-                            <small>Bootstrap • CSS3 • HTML5</small>
-                        </span>
-                    </div>
-                </a>
-                <a href="https://felipecm37.github.io/villasagencia.git.io/" target="_blank" class="portfolio-item">
-                    <img src="@/assets/portfolio/portfolio9.jpg" alt="Landing Page" class="rounded-xl">
-                    <div class="portfolio-caption">
-                        <span><b>Landing Page</b>
-                            <br>
-                            Projeto para agência de viagens.
-                            <br>
-                            <small>HTML5 • CSS3 • JavaScript</small>
-                        </span>
-                    </div>
-                </a>
                 <a href="https://felipecm37.github.io/sunset_granderio.git.io/" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio11.jpg" alt="Sunset Grande Rio" class="rounded-xl">
                     <div class="portfolio-caption">
@@ -154,6 +95,82 @@
                             Este projeto demonstra a implementação de um website educacional completo
                             <br>
                             <small>HTML5 • CSS3 • JavaScript</small>
+                        </span>
+                    </div>
+                </a>
+                <a href="https://ccaa-connect-6bd7f666.base44.app/Students" target="_blank" class="portfolio-item">
+                    <img src="@/assets/portfolio/portfolio13.jpg" alt="Novo Projeto" class="rounded-xl">
+                    <div class="portfolio-caption">
+                        <span><b>Novo Projeto</b>
+                            <br>
+                            Dashboard para controle de estudantes pela CCAA.    
+                            <br>
+                            <small>Vue • Tawilwind</small>
+                        </span>
+                    </div>
+                </a>
+                <a href="https://felipecm37.github.io/m31.git.io/" target="_blank" class="portfolio-item">
+                    <img src="@/assets/portfolio/portfolio14.jpg" alt="Novo Projeto" class="rounded-xl">
+                    <div class="portfolio-caption">
+                        <span><b>B-Store</b>
+                            <br>
+                             Landing page para studio de fotografia.
+                            <br>
+                            <small>HTML5 • Bootstrap • JavaScript</small>
+                        </span>
+                    </div>
+                </a>
+                <a href="https://felipecm37.github.io/villasagencia.git.io/" target="_blank" class="portfolio-item">
+                    <img src="@/assets/portfolio/portfolio9.jpg" alt="Landing Page" class="rounded-xl">
+                    <div class="portfolio-caption">
+                        <span><b>Landing Page</b>
+                            <br>
+                            Projeto para agência de viagens.
+                            <br>
+                            <small>HTML5 • CSS3 • JavaScript</small>
+                        </span>
+                    </div>
+                </a>
+                <a href="https://felipecm37.github.io/ipanemapapeis.git.io/" target="_blank" class="portfolio-item">
+                    <img src="@/assets/portfolio/portfolio10.jpg" alt="Novo Projeto" class="rounded-xl">
+                    <div class="portfolio-caption">
+                         <span><b>Ipanema Papéis</b>
+                            <br>
+                            E-commerce completo desenvolvido em Prestashop
+                            <br>
+                            <small>Magento • PHP • MySQL</small>
+                        </span>
+                    </div>
+                </a>
+                <a href="https://felipecm37.github.io/landingbike.git.io/" target="_blank" class="portfolio-item">
+                    <img src="@/assets/portfolio/portfolio8.jpg" alt="Landing Bike" class="rounded-xl">
+                    <div class="portfolio-caption">
+                        <span><b>Landing Bike</b>
+                            <br>
+                            Landing page para loja de bicicletas
+                            <br>
+                            <small>Bootstrap • CSS3 • HTML5</small>
+                        </span>
+                    </div>
+                </a>
+                <a href="https://felipecm37.github.io/bstore.git.io/" target="_blank" class="portfolio-item">
+                    <img src="@/assets/portfolio/portfolio7.jpg" alt="Ipanema Papéis" class="rounded-xl">
+                    <div class="portfolio-caption">
+                        <span><b>B-store</b>
+                            <br>
+                            Template para e-commerce
+                            <br>
+                            <small>Wordpress • PHP • MySQL</small>
+                        </span>
+                    </div>
+                </a>
+                <a href="https://felipecm37.github.io/buzios.github.io/" target="_blank" class="portfolio-item">
+                    <img src="@/assets/portfolio/portfolio1.jpg" alt="Búzios Website" class="rounded-xl">
+                    <div class="portfolio-caption">
+                        <span><b>Búzios Website</b>
+                            <br>
+                            Criação de uma landing page.
+                            HTML - Bootstrap - CSS - JavaScript
                         </span>
                     </div>
                 </a>
