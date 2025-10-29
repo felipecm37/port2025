@@ -72,16 +72,13 @@
                         <span><b>Búzios Website</b><br>Landing page turística</span>
                     </div>
                 </div>
-<<<<<<< HEAD
                 <!-- New portfolio item -->
                 <div class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio15.jpg" alt="Novo Projeto" class="rounded-xl">
                     <div class="portfolio-caption">
-                        <span><b>Novo Projeto</b><br>Criação de uma landing page, HTML - Bootstrap - CSS - JavaScript.</span>
+                        <span><b>Portfólio</b><br>Criação de uma landing page<br><small>HTML5 • Bootstrap • CSS3 • JavaScript</small></span>
                     </div>
                 </div>
-=======
->>>>>>> 0cb301718b51227590ef0832d57d985ab71289da
             </div>
 
             <!-- Desktop view - Grid layout -->
@@ -100,7 +97,7 @@
                 <a href="https://felipecm37.github.io/ccca_projeto.git.io/" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio12.jpg" alt="Novo Projeto" class="rounded-xl">
                     <div class="portfolio-caption">
-                        <span><b>CCAA</b>
+                        <span><b>CCAA - Institucinal 2024</b>
                             <br>
                             Este projeto demonstra a implementação de um website educacional completo
                             <br>
@@ -111,7 +108,7 @@
                 <a href="https://ccaa-connect-6bd7f666.base44.app/Students" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio13.jpg" alt="Novo Projeto" class="rounded-xl">
                     <div class="portfolio-caption">
-                        <span><b>Novo Projeto</b>
+                        <span><b>Dashboard CCAA - 2024</b>
                             <br>
                             Dashboard para controle de estudantes pela CCAA.    
                             <br>
@@ -135,7 +132,7 @@
                     <div class="portfolio-caption">
                         <span><b>Landing Page</b>
                             <br>
-                            Projeto para agência de viagens.
+                            Projeto para agência de viagens
                             <br>
                             <small>HTML5 • CSS3 • JavaScript</small>
                         </span>
@@ -144,13 +141,9 @@
                 <a href="https://felipecm37.github.io/ipanemapapeis.git.io/" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio10.jpg" alt="Novo Projeto" class="rounded-xl">
                     <div class="portfolio-caption">
-                         <span><b>Ipanema Papéis</b>
+                         <span><b>Ipanema Papéis - Loja Virtual</b>
                             <br>
-<<<<<<< HEAD
                             E-commerce completo desenvolvido em Magento
-=======
-                            E-commerce completo desenvolvido em Prestashop
->>>>>>> 0cb301718b51227590ef0832d57d985ab71289da
                             <br>
                             <small>Magento • PHP • MySQL</small>
                         </span>
@@ -159,7 +152,7 @@
                 <a href="https://felipecm37.github.io/landingbike.git.io/" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio8.jpg" alt="Landing Bike" class="rounded-xl">
                     <div class="portfolio-caption">
-                        <span><b>Landing Bike</b>
+                        <span><b>Bike Magazine</b>
                             <br>
                             Landing page para loja de bicicletas
                             <br>
@@ -181,28 +174,25 @@
                 <a href="https://felipecm37.github.io/buzios.github.io/" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio1.jpg" alt="Búzios Website" class="rounded-xl">
                     <div class="portfolio-caption">
-                        <span><b>Búzios Website</b>
+                        <span><b>Búzios - Aluguel de residências</b>
                             <br>
-                            Criação de uma landing page.
+                            Criação de uma landing page
                             HTML - Bootstrap - CSS - JavaScript
                         </span>
                     </div>
                 </a>
-<<<<<<< HEAD
-                <!-- New portfolio item -->
                 <a href="https://felipecm37.github.io/thecaldas.git.io/" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio15.jpg" alt="Novo Projeto" class="rounded-xl">
                     <div class="portfolio-caption">
                         <span><b>Portfólio</b>
                             <br>
-                            Criação de uma landing page, HTML - Bootstrap - CSS - JavaScript.
+                            Criação de uma landing page
                             <br>
                             <small>HTML5 • Bootstrap • CSS3 • JavaScript</small>
                         </span>
                     </div>
                 </a>
-=======
->>>>>>> 0cb301718b51227590ef0832d57d985ab71289da
+
             </div>
         </div>
         <!-- Images grid end -->
