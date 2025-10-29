@@ -13,7 +13,7 @@
                 <div class="period">2021 - 2024</div>
                 <div class="description">Programador fullstack no Hotels & Resorts coordenei a criação e o
                     desenvolvimento da interface do usuário (UI/UX).</div>
-                <div class="skills">Competências: HTML5 · CSS3 · JavaScript · SASS · Bootstrap · Taiwlwind · Vue.js ·
+                <div class="skills">Competências: HTML5 · CSS3 · JavaScript · SASS · Bootstrap · Tailwind · Vue.js ·
                     Node.js ·
                     PhpMyAdmin · MySQL · GitHub · E-commerce global · Otimização para mecanismos de busca (SEO)</div>
             </li>
