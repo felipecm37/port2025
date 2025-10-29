@@ -72,6 +72,7 @@
                         <span><b>Búzios Website</b><br>Landing page turística</span>
                     </div>
                 </div>
+<<<<<<< HEAD
                 <!-- New portfolio item -->
                 <div class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio15.jpg" alt="Novo Projeto" class="rounded-xl">
@@ -79,6 +80,8 @@
                         <span><b>Novo Projeto</b><br>Criação de uma landing page, HTML - Bootstrap - CSS - JavaScript.</span>
                     </div>
                 </div>
+=======
+>>>>>>> 0cb301718b51227590ef0832d57d985ab71289da
             </div>
 
             <!-- Desktop view - Grid layout -->
@@ -143,7 +146,11 @@
                     <div class="portfolio-caption">
                          <span><b>Ipanema Papéis</b>
                             <br>
+<<<<<<< HEAD
                             E-commerce completo desenvolvido em Magento
+=======
+                            E-commerce completo desenvolvido em Prestashop
+>>>>>>> 0cb301718b51227590ef0832d57d985ab71289da
                             <br>
                             <small>Magento • PHP • MySQL</small>
                         </span>
@@ -181,6 +188,7 @@
                         </span>
                     </div>
                 </a>
+<<<<<<< HEAD
                 <!-- New portfolio item -->
                 <a href="https://felipecm37.github.io/thecaldas.git.io/" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio15.jpg" alt="Novo Projeto" class="rounded-xl">
@@ -193,6 +201,8 @@
                         </span>
                     </div>
                 </a>
+=======
+>>>>>>> 0cb301718b51227590ef0832d57d985ab71289da
             </div>
         </div>
         <!-- Images grid end -->
