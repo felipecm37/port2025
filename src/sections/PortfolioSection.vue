@@ -198,7 +198,12 @@
         <!-- Images grid end -->
 
         <!-- Circle start -->
-        <div class="bg-neutral-300 h-64 w-64 rounded-full absolute top-0 left-0 mt-16 -z-20"></div>
+     <div class="stars"></div>
+<div class="shooting-star"></div>
+<div class="shooting-star"></div>
+<div class="shooting-star"></div>
+<div class="shooting-star"></div>
+<div class="shooting-star"></div>
         <!-- Circle end -->
     </section>
     <!-- Portfolio section end -->
@@ -211,6 +216,7 @@ export default {
 </script>
 
 <style>
+/*
 .backmain {
     background: linear-gradient(132deg, #000000, #00ff00, #36bfff, #f9fd0c, #2e800d, #ffffff);
     background-size: 400% 400%;
@@ -230,7 +236,7 @@ export default {
         background-position: 0% 50%;
     }
 }
-
+*/
 .portfolio-item {
     position: relative;
     overflow: hidden;
