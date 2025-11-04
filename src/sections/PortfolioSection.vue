@@ -18,67 +18,67 @@
         <div class="portfolio-grid">
             <!-- Mobile view - Grid layout -->
             <div class="grid grid-cols-2 gap-4 md:hidden">
-                <div class="portfolio-item">
+                <a href="https://felipecm37.github.io/sunset_granderio.git.io/" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio11.jpg" alt="Portfolio 11" class="rounded-xl">
                     <div class="portfolio-caption">
                         <span><b>Sunset Grande Rio</b><br>Event landing page</span>
                     </div>
-                </div>
-                <div class="portfolio-item">
+                </a>
+                <a href="https://felipecm37.github.io/ccca_projeto.git.io/" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio12.jpg" alt="Portfolio 12" class="rounded-xl">
                     <div class="portfolio-caption">
                         <span><b>Novo Projeto</b><br>Descrição do projeto</span>
                     </div>
-                </div>
-                <div class="portfolio-item">
+                </a>
+                <a href="https://ccaa-connect-6bd7f666.base44.app/Students" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio13.jpg" alt="Portfolio 13" class="rounded-xl">
                     <div class="portfolio-caption">
                         <span><b>Novo Projeto</b><br>Descrição do projeto</span>
                     </div>
-                </div>
-                <div class="portfolio-item">
+                </a>
+                <a href="https://felipecm37.github.io/m31.git.io/" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio14.jpg" alt="Portfolio 14" class="rounded-xl">
                     <div class="portfolio-caption">
                         <span><b>Novo Projeto</b><br>Descrição do projeto</span>
                     </div>
-                </div>
-                <div class="portfolio-item">
+                </a>
+                <a href="https://felipecm37.github.io/villasagencia.git.io/" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio9.jpg" alt="Landing Page" class="rounded-xl">
                     <div class="portfolio-caption">
                         <span><b>Landing Page</b><br>Design moderno</span>
                     </div>
-                </div>
-                <div class="portfolio-item">
+                </a>
+                <a href="https://felipecm37.github.io/ipanemapapeis.git.io/" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio10.jpg" alt="Portfolio 10" class="rounded-xl">
                     <div class="portfolio-caption">
                         <span><b>Novo Projeto</b><br>Descrição do projeto</span>
                     </div>
-                </div>
-                <div class="portfolio-item">
+                </a>
+                <a href="https://felipecm37.github.io/landingbike.git.io/" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio8.jpg" alt="Landing Bike" class="rounded-xl">
                     <div class="portfolio-caption">
                         <span><b>Landing Bike</b><br>Site de bicicletas</span>
                     </div>
-                </div>
-                <div class="portfolio-item">
+                </a>
+                <a href="https://felipecm37.github.io/bstore.git.io/" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio2.jpg" alt="Ipanema Papéis" class="rounded-xl">
                     <div class="portfolio-caption">
                         <span><b>Ipanema Papéis</b><br>E-commerce Prestashop</span>
                     </div>
-                </div>
-                <div class="portfolio-item">
+                </a>
+                <a href="https://felipecm37.github.io/buzios.github.io/" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio1.jpg" alt="Búzios Website" class="rounded-xl">
                     <div class="portfolio-caption">
                         <span><b>Búzios Website</b><br>Landing page turística</span>
                     </div>
-                </div>
+                </a>
                 <!-- New portfolio item -->
-                <div class="portfolio-item">
+                <a href="https://felipecm37.github.io/thecaldas.git.io/" target="_blank" class="portfolio-item">
                     <img src="@/assets/portfolio/portfolio15.jpg" alt="Novo Projeto" class="rounded-xl">
                     <div class="portfolio-caption">
                         <span><b>Portfólio</b><br>Criação de uma landing page<br><small>HTML5 • Bootstrap • CSS3 • JavaScript</small></span>
                     </div>
-                </div>
+                </a>
             </div>
 
             <!-- Desktop view - Grid layout -->
