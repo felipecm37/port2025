@@ -65,25 +65,6 @@
                     E-commerce SEO</div>
             </li>
 
-            <li class="job">
-                <div class="company">Player</div>
-                <div class="job-title">DESENVOLVEDOR FRONT-END</div>
-                <div class="period">2004 - 2007</div>
-                <div class="description">Na Player, participei de campanhas online para grandes agências como DM9, MPM e
-                    África em produções online de clientes como Burger King, Leroy Merlin, Johnnie Walker, Swift,
-                    Albany, Ragnarok Games, sites promocionais e hotsites.</div>
-                <div class="skills">Competências: HTML · JavaScript · CSS · Photoshop</div>
-            </li>
-
-            <li class="job">
-                <div class="company">WebTraffic</div>
-                <div class="job-title">DESENVOLVEDOR FRONT-END</div>
-                <div class="period">2003 - 2004</div>
-                <div class="description">Pioneira em search marketing no Brasil e focada em performance, responsável por
-                    otimizar o conteúdo e a estrutura de sites como Netshoes.</div>
-                <div class="skills">Competências: HTML · CSS · JavaScript · Photoshop · Animação em Flash · Otimização
-                    para mecanismos de busca (SEO)</div>
-            </li>
         </ul>
         </p>
         <!-- Main text end -->
